@@ -1,13 +1,5 @@
 #!/bin/bash
-# cheatpt_final.sh - Consulta cheat.sh 
-# Linux system Command 
-
-# Verifica se curl está instalado
-if ! command -v curl &>/dev/null; then
-    echo "Erro: instale o curl."
-    exit 1
-fi
-
+# By - ®→ĸæbbłø
 # Verifica se translate-shell (trans) está instalado
 if ! command -v trans &>/dev/null; then
     echo "Erro: instale o translate-shell (trans) para tradução automática."
@@ -25,7 +17,7 @@ comando="$1"
 echo ""
 echo "==============================="
 echo "Pesquisando '$comando'"
-echo "(By -  Art-Zenun)"
+echo "(Aguarde.........)"
 echo "==============================="
 echo ""
 
