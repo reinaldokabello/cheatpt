@@ -1,8 +1,6 @@
 # cheatpt
 
 **CheatPT** é um script em Bash que consulta [cheat.sh](https://cheat.sh/) e traduz automaticamente para português, tornando mais fácil entender comandos Linux.  
-O script também adiciona explicações resumidas para comandos populares e, na versão `cheatpt_final_save.sh`, salva automaticamente a saída em arquivos `.txt`.
-
 ---
 
 ## Funcionalidades
